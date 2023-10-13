@@ -6,6 +6,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -23,6 +24,11 @@ This is a solution to the [3-column preview card component challenge on Frontend
 #### Mobile View
 
 ![Mobile view](/screenshots/mobile-view.png)
+
+### Links
+
+1. [Solution URL](https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-f5u8YhBqr6)
+2. [Live Site URL](https://sakthiprabhu-k.github.io/3-column-preview-card-component/)
 
 ## My process
 
